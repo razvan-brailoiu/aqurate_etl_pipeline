@@ -1,4 +1,4 @@
-,index_x,period_x,product_name_x,product_sku,net_sales_x,gross_margin_x,index_y,period_y,product_name_y,net_sales_y,gross_margin_y
+,index_x,period_x,product_name_x,product_sku,net_sales,gross_margin,index_y,period_y,product_name_y,orders,page_views
 0,0,30,3 STRIPEY MICE FELTCRAFT,#sku_187,1374.72,46.97,2430,30,3 STRIPEY MICE FELTCRAFT,271,661
 1,1,30,BLUE/YELLOW FLOWER DESIGN BIG MUG,#sku_1757,1890.16,27.83,2695,30,BLUE/YELLOW FLOWER DESIGN BIG MUG,1022,2342
 2,3,30,SET OF 4 NAPKIN CHARMS 3 KEYS ,#sku_1099,2496.64,11.08,1196,30,SET OF 4 NAPKIN CHARMS 3 KEYS ,246,1673
